@@ -4,7 +4,6 @@ Course content for PIAIC AI Quarter 2
 
 ## Reference Books
 
----
 
 > #### **Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython**
 >
