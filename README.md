@@ -168,7 +168,6 @@ Submit the assignment [here](https://forms.gle/GFnM5iS9Qc1G168R7) using google f
   - Loading and displaying image with `matplotlib`
     - `imread` - to parse the image into numpy array
     - `imshow` - to plot an image using numpy array of the image
-  -
 
 **Assignment**
 
