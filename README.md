@@ -172,7 +172,7 @@ Submit the assignment [here](https://forms.gle/GFnM5iS9Qc1G168R7) using google f
 
 **Assignment**
 
-Download the assignment 2 notebook from [here](https://github.com/nasir-hussain1/piaic_q2_Assignments/blob/master/Assignment%232(Numpy%20Fundamentals.ipynb)
+Download the assignment 2 notebook from <a href='https://github.com/nasir-hussain1/piaic_q2_Assignments/blob/master/Assignment%232(Numpy%20Fundamentals.ipynb'>here</a>
 
 Submit the assignment [here](https://forms.gle/GFnM5iS9Qc1G168R7) using google forms
 
