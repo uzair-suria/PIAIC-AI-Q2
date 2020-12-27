@@ -109,7 +109,7 @@ Submit the assignment [here](https://forms.gle/GFnM5iS9Qc1G168R7) using google f
   - `np.maximum`
   - `np.minimum`
   - `np.modf`
-- Unary Functions (requires single array as a parameter)
+- Unary Functions (requires single array as an argument)
   - `np.abs`, `np.fabs`
   - `np.sqrt`
   - `np.square`
@@ -125,7 +125,7 @@ Submit the assignment [here](https://forms.gle/GFnM5iS9Qc1G168R7) using google f
   - `np.isfinite`, `np.isinf`
   - `np.cos`, `np.cosh`, `np.sin`, `np.sinh`, `np.tan`, `np.tanh`, `np.arccos`, `np.arccosh`, `np.arcsin`, `np.arcsinh`, `np.arctan`, `np.arctanh`
   - `np.logical_not`
-- Binary Functions (requires two arrays as parameter)
+- Binary Functions (requires two arrays as argument)
   - `np.add`
   - `np.subtract`
   - `np.multiply`
